@@ -1,0 +1,2 @@
+print("AgroControl - Sistema de Controle Agrícola")
+print("Projeto desenvolvido para a prática de gerenciamento de configuração.")
